@@ -1,20 +1,20 @@
 # Programing-Language-C
 
-#English:
+# English:
 
 Code development as practical and curricular activities of the college. Each was proposed by the teachers as study material and to improve our computer science skills.
 
-Register Employees - Algorithm with a menu screen with options to choose, where is registered the data of an employee and stores it in FILE.dat, after the registration is successfully made it is possible to view the list with all entries made.
+* Register Employees - Algorithm with a menu screen with options to choose, where is registered the data of an employee and stores it in FILE.dat, after the registration is successfully made it is possible to view the list with all entries made.
 
-Calculating Commodity - The algorithm receives an entry with name and value of a given commodity and calculates at the end of the year the customer's profit percentage.
+! Calculating Commodity - The algorithm receives an entry with name and value of a given commodity and calculates at the end of the year the customer's profit percentage.
 
-Caesar Cipher - Development of a Caesar Cipher-based encryption algorithm used by Julio Cesar to send and receive messages safely in Rome. Using one function to encrypt the message and another that decrypts the message. The algorithm encodes a sentence by traversing the ASCII table the number of times in each letter determined by the password.
+@ Caesar Cipher - Development of a Caesar Cipher-based encryption algorithm used by Julio Cesar to send and receive messages safely in Rome. Using one function to encrypt the message and another that decrypts the message. The algorithm encodes a sentence by traversing the ASCII table the number of times in each letter determined by the password.
 
-Employee Commission - Program to calculate what an employee's commission will be based on how many TV's he has sold, plus his salary.
+$ Employee Commission - Program to calculate what an employee's commission will be based on how many TV's he has sold, plus his salary.
 
-Data Structure V1: Printing Values - Using dynamic allocation, an element receives a value and at the end of the exercise prints the result of that element.
+% Data Structure V1: Printing Values - Using dynamic allocation, an element receives a value and at the end of the exercise prints the result of that element.
 
-Daods Structure V2: Print Values - Using dynamic allocation, one element is given a value and another pointer is allocated that points to the first element plus an increment and prints the result.
+& Data Structure V2: Print Values - Using dynamic allocation, one element is given a value and another pointer is allocated that points to the first element plus an increment and prints the result.
 
 Data Structure 3: Structure and String - With the structure already defined, we allocate a dynamic memory space and then receive 3 Strings that are stored in an array of the structure. At the end prints the 3 reverse Strings.
 
@@ -24,7 +24,7 @@ Reverse Phrase - Using a structure, the program receives a string and stores it 
 
 Manipulating a Stack - Defining a data structure, the program creates a dynamically allocated empty initialized stack and inserts and removes that stack using a pointer via the PUSH and POP methods.
 
-#Português:
+# Português:
 
 Desenvolvimento de código como atividades práticas e curriculares da faculdade. Cada um deles foi proposto pelos professores como material de estudo e para aperfeiçoar nossas habilidades na Ciência da Computação.
 
@@ -38,7 +38,7 @@ Comissão de funcionário - Programa para calcular qual será a comissão de um 
 
 Estrutura de dados V1: Imprimindo valores - Usando alocação dinâmica, um elemento recebe um valor e ao final da exercução imprime o resultado desse elemento.
 
-Estrutura de daods V2: Imprime valores - Usando alocação dinâmica, um elemento recebe um valor e outro ponteiro é alocado que aponta para o primeiro elemento mais um imcremento e imprime o resultado.
+Estrutura de dados V2: Imprime valores - Usando alocação dinâmica, um elemento recebe um valor e outro ponteiro é alocado que aponta para o primeiro elemento mais um imcremento e imprime o resultado.
 
 Estrutura de dados 3: Estrutura e String - Com a estrutura já definida, alocamos um espaço de memória dinâmica e depois é recebido 3 Strings que são armazenadas em uma matriz da estrutura. Ao final imprime as 3 Strings inversa.
 
